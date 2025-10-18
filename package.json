@@ -1,0 +1,14 @@
+{
+    "author": "Нефедьев Евгений",
+    "name": "rabotasbd",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0",
+        "hbs": "^4.2.0",
+        "mysql2": "^3.15.2",
+        "nodemon": "^3.1.10"
+    }
+}
