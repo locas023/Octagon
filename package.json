@@ -1,0 +1,17 @@
+{
+    "author": "Нефедьев Евгений",
+    "name": "translator",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "axios": "^1.12.2",
+        "express": "^5.1.0",
+        "hbs": "^4.2.0",
+        "mysql2": "^3.15.2",
+        "node-telegram-bot-api": "^0.66.0",
+        "nodemon": "^3.1.10",
+        "set-interval-async": "^3.0.3"
+    }
+}
