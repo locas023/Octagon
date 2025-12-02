@@ -1,0 +1,11 @@
+{
+  "author": "Нефедьев Евгений",
+  "name": "translator",
+
+  "dependencies": {
+    "mysql2": "^3.15.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "sequelize": "^6.37.7"
+  }
+}
+
